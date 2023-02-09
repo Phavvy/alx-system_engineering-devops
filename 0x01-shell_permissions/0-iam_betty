@@ -1,6 +1,4 @@
-#!/bin/bash
-su betty
 
-#!/bin/bash 
+#!/bin/bash
 su betty
 
